@@ -9,8 +9,8 @@ This list is an attempt to bring all opportunities together at one place. It is 
 
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
-1.| [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)  | mid August  | mid September |
-2.| [Grace Hopper Celebration by Anita B. Org](https://ghc.anitab.org/attend/scholarships/) |  April  | mid May |
+1.| [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)  | mid August | mid September |
+2.| [Grace Hopper Celebration by Anita B. Org](https://ghc.anitab.org/attend/scholarships/) | April | mid May |
 3.| [Nutanix ♥heart Women in Technology Scholarships](https://www.nutanix.com/scholarships)  | November | May |
 4.| [Generation Google Scholarship (Asia Pacific)](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/) | begininning March | end March |
 5.| [RedHat Women in Open Source Award](https://www.redhat.com/en/about/women-in-open-source) | - | - |
@@ -25,4 +25,22 @@ Sr. No.| Program      | Application Opens | Application Due     |
 14.| [FACEBOOK FELLOWSHIP PROGRAM](https://research.fb.com/fellowship/) | beginning August | mid September |
 
 
-#### Internship programs to be added soon.
+#### Internship programs:
+
+
+Sr. No.| Program      | Application Opens | Application Due     |
+:-----| :---        |    ----:   |          ---: |
+1.| [Outreachy Program](https://www.outreachy.org/)  | beginning February | end February |
+2.| [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) |  beginning March | end March |
+
+
+#### Other programs and contests for women:
+
+
+Sr. No.| Program      | Application Opens | Application Due     |
+:-----| :---        |    ----:   |          ---: |
+1.| [SheCodes, Indeed](https://www.shecodesindeed.com/)  | August | beginning September |
+2.| [AmazeWiT by Amazon](https://www.amazewit.in/) | - | - |
+<!-- Wintathon -->
+<!-- Adobe shecodes -->
+<!-- Intuit Tech Women -->
