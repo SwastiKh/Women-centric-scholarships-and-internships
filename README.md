@@ -1,4 +1,4 @@
-# Scholarships and Intenship Opportunities for Women-in-Tech in India
+# Scholarships and Internship Opportunities for Women-in-Tech in India
 
 ### This is a non-exhaustive list of opportunities available to Women students. These positions are mostly focussed towards Women-in-Tech in India.
 
@@ -34,13 +34,16 @@ Sr. No.| Program      | Application Opens | Application Due     |
 2.| [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) |  beginning March | end March |
 
 
-#### Other programs and contests for women:
+#### Other mentorship programs and contests for women:
 
 
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
 1.| [SheCodes, Indeed](https://www.shecodesindeed.com/)  | August | beginning September |
 2.| [AmazeWiT by Amazon](https://www.amazewit.in/) | - | - |
+<!-- Clique -->
+<!-- WISR -->
+
 <!-- Wintathon -->
 <!-- Adobe shecodes -->
 <!-- Intuit Tech Women -->
