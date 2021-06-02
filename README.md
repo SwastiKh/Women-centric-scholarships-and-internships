@@ -34,7 +34,7 @@ Sr. No.| Program      | Application Opens | Application Due     |
 2.| [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) |  beginning March | end March |
 
 
-#### Mentorship programs  for women:
+#### Mentorship programs:
 
 
 Sr. No.| Program      | Application Opens | Application Due     |
@@ -42,7 +42,7 @@ Sr. No.| Program      | Application Opens | Application Due     |
 1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | - |
 2.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | - |
 
-#### Contests for women:
+#### Contests:
 
 
 Sr. No.| Program      | Application Opens | Application Due     |
