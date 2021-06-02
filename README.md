@@ -34,17 +34,22 @@ Sr. No.| Program      | Application Opens | Application Due     |
 2.| [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) |  beginning March | end March |
 
 
-#### Other mentorship programs and contests for women:
+#### Mentorship programs  for women:
+
+
+Sr. No.| Program      | Application Opens | Application Due     |
+:-----| :---        |    ----:   |          ---: |
+1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | - |
+2.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | - |
+
+#### Contests for women:
 
 
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
 1.| [SheCodes, Indeed](https://www.shecodesindeed.com/)  | August | beginning September |
 2.| [AmazeWiT by Amazon](https://www.amazewit.in/) | - | - |
-3.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | - |
-3.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | - |
-<!-- Clique -->
-<!-- WISR -->
+
 
 <!-- Wintathon -->
 <!-- Adobe shecodes -->
