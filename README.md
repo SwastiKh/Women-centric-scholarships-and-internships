@@ -37,10 +37,11 @@ Sr. No.| Program      | Application Opens | Application Due     |
 #### Mentorship programs:
 
 
-Sr. No.| Program      | Application Opens | Application Due     |
+Sr. No.| Program      | Application Opens | Program Duration     |
 :-----| :---        |    ----:   |          ---: |
-1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | - |
-2.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | - |
+1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | 3-4 weeks |
+2.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | 6 weeks |
+2.| [Lotus STEMM Mentorship Program](https://www.lotusstemm.org/mentorship-program) | August | September to March |
 
 #### Contests:
 
