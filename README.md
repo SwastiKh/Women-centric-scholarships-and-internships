@@ -41,7 +41,9 @@ Sr. No.| Program      | Application Opens | Program Duration     |
 :-----| :---        |    ----:   |          ---: |
 1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | 3-4 weeks |
 2.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | 6 weeks |
-2.| [Lotus STEMM Mentorship Program](https://www.lotusstemm.org/mentorship-program) | August | September to March |
+3.| [Lotus STEMM Mentorship Program](https://www.lotusstemm.org/mentorship-program) | August | September to March |
+4.| [Amazon WoW](https://amazonwowindia.splashthat.com/) | 14-25 June 2021 | - |
+
 
 #### Contests:
 
@@ -49,8 +51,9 @@ Sr. No.| Program      | Application Opens | Program Duration     |
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
 1.| [SheCodes, Indeed](https://www.shecodesindeed.com/)  | August | beginning September |
-2.| [AmazeWiT by Amazon](https://www.amazewit.in/) | - | - |
+2.| [AmazeWiT](https://www.amazewit.in/) | - | - |
 3.| [Walmart CodeHers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) | 31 May 2021 | 11 June 2021 |
+
 
 
 <!-- Wintathon -->
