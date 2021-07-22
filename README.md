@@ -40,7 +40,7 @@ Sr. No.| Program      | Application Opens | Application Due     |
 Sr. No.| Program      | Application Opens | Program Duration     |
 :-----| :---        |    ----:   |          ---: |
 1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | 3-4 weeks |
-2.| [WISR Mentorship Program](https://www.linkedin.com/company/wisrindia/) | - | 6 weeks |
+2.| [WISR Mentorship Program](https://www.linkedin.com/posts/wisrindia_we-are-very-excited-to-announce-the-second-activity-6823652103316111360-EOq5) | 22 June 2021 | 29 August - 10 October 2021 |
 3.| [Lotus STEMM Mentorship Program](https://www.lotusstemm.org/mentorship-program) | August | September to March |
 4.| [Amazon WoW](https://amazonwowindia.splashthat.com/) | 14-25 June 2021 | - |
 
