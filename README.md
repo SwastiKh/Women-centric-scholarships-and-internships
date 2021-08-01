@@ -9,7 +9,7 @@ This list is an attempt to bring all opportunities together at one place. It is 
 
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
-1.| [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)  | mid August | mid September |
+1.| [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/)  | 27 July 2021 | 22 August 2021 |
 2.| [Grace Hopper Celebration by Anita B. Org](https://ghc.anitab.org/attend/scholarships/) | April | mid May |
 3.| [Nutanix ♥heart Women in Technology Scholarships](https://www.nutanix.com/scholarships)  | November | May |
 4.| [Generation Google Scholarship (Asia Pacific)](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/) | begininning March | end March |
@@ -39,10 +39,11 @@ Sr. No.| Program      | Application Opens | Application Due     |
 
 Sr. No.| Program      | Application Opens | Program Duration     |
 :-----| :---        |    ----:   |          ---: |
-1.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | 3-4 weeks |
-2.| [WISR Mentorship Program](https://www.linkedin.com/posts/wisrindia_we-are-very-excited-to-announce-the-second-activity-6823652103316111360-EOq5) | 22 June 2021 | 29 August - 10 October 2021 |
-3.| [Lotus STEMM Mentorship Program](https://www.lotusstemm.org/mentorship-program) | August | September to March |
-4.| [Amazon WoW](https://amazonwowindia.splashthat.com/) | 14-25 June 2021 | - |
+1.| [DE Shaw Group - DESIS Ascend Educare 2021](https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4) | 1-30 August 2021 | October to March |
+2.| [Clique Interestship](https://www.linkedin.com/company/clique-interestship/) | June and December | 3-4 weeks |
+3.| [WISR Mentorship Program](https://www.linkedin.com/posts/wisrindia_we-are-very-excited-to-announce-the-second-activity-6823652103316111360-EOq5) | 22 June 2021 | 29 August - 10 October 2021 |
+4.| [Lotus STEMM Mentorship Program](https://www.lotusstemm.org/mentorship-program) | August | September to March |
+5.| [Amazon WoW](https://amazonwowindia.splashthat.com/) | 14-25 June 2021 | - |
 
 
 #### Contests:
