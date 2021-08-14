@@ -30,7 +30,7 @@ Sr. No.| Program      | Application Opens | Application Due     |
 
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
-1.| [Outreachy Program](https://www.outreachy.org/)  | beginning February | end February |
+1.| [Outreachy Program](https://www.outreachy.org/)  | 9 August 2021 | 3 Spetember 2021 |
 2.| [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) |  beginning March | end March |
 
 
@@ -51,7 +51,7 @@ Sr. No.| Program      | Application Opens | Program Duration     |
 
 Sr. No.| Program      | Application Opens | Application Due     |
 :-----| :---        |    ----:   |          ---: |
-1.| [SheCodes, Indeed](https://www.shecodesindeed.com/)  | August | beginning September |
+1.| [SheCodes, Indeed](https://www.shecodesindeed.com/)  | 1 August 2021 | 10 September 2021 |
 2.| [AmazeWiT](https://www.amazewit.in/) | - | - |
 3.| [Walmart CodeHers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) | 31 May 2021 | 11 June 2021 |
 
